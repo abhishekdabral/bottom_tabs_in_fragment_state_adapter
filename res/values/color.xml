@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colors constants  -->
+
+<resources>
+
+    <color name = "white" >#FFFFFF</color>
+    <color name = "black" >#000000</color>
+    <color name = "bright_blue" >#BBE5FF</color>
+    <color name = "light_blue" >#44A2FF</color>
+    <color name = "dark_blue" >#1F7EC2</color>
+
+    <color name = "green" >#70E333</color>
+    <color name = "grey" >#8C8E91</color>
+    <color name = "pink" >#F937E9</color>
+    <color name = "grey_background" >#4F4F51</color>
+
+    <color name = "new_release_header_blink1" >#2281C4</color>
+    <color name = "new_release_header_blink2" >#2583C6</color>
+    <color name = "new_release_header_blink3" >#2785C8</color>
+    <color name = "new_release_header_blink4" >#2A87CA</color>
+    <color name = "new_release_header_blink5" >#2E8BCE</color>
+
+    <color name = "new_release_header_blink6" >#318ED0</color>
+    <color name = "new_release_header_blink7" >#3691D2</color>
+    <color name = "new_release_header_blink8" >#3994D5</color>
+    <color name = "new_release_header_blink9" >#3D97D7</color>
+    <color name = "new_release_header_blink10" >#409ADA</color>
+
+</resources>

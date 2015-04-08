@@ -1,0 +1,31 @@
+<!-- String constants used in xmls -->
+<resources>
+
+    <string name = "app_name" >Xpin-Off</string>
+    <string name = "cancel" >Cancel</string>
+    <string name = "create_account" >Create Account</string>
+    <string name = "facebook_id" >471438782940842</string>
+    <string name = "login" >Login</string>
+    <string name = "ok" >OK</string>
+    <string name = "user_name" >Email Address</string>
+    <string name = "pass_word" >Password</string>
+    <string name = "confirm_pass_word" >Confirm Password</string>
+    <string name = "logout" >Log Out</string>
+    <string name = "home" >Home</string>
+    <string name = "mycomic" >My Comics</string>
+    <string name = "search" >Search</string>
+    <string name = "search_comic" >Search Comics</string>
+    <string name = "title" >Title :</string>
+    <string name = "genre" >Genre :</string>
+    <string name = "issue" >Issue :</string>
+    <string name = "writter" >Writter :</string>
+    <string name = "author" >Author :</string>
+    <string name = "colorist" >Colorist :</string>
+    <string name = "pencil" >Pencil :</string>
+    <string name = "editing" >Editing :</string>
+    <string name = "summary" >Summary :</string>
+    <string name = "pages" >Pages :</string>
+    <string name = "free" >Free </string>
+    <string name = "new_release" >New Releases </string>
+    
+ </resources>
